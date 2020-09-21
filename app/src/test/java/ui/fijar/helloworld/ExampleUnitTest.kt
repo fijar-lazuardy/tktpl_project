@@ -1,4 +1,4 @@
-package com.example.tktplproject
+package ui.fijar.helloworld
 
 import org.junit.Test
 
